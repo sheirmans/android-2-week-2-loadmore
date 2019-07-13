@@ -71,6 +71,8 @@ dependencies {
     implementation "com.squareup.okhttp3:logging-interceptor:4.0.1"
 
     implementation 'com.squareup.picasso:picasso:2.71828'
+
+    //Location provider
     implementation 'com.google.android.gms:play-services-location:17.0.0'
 
     // Test helpers
