@@ -1,0 +1,6 @@
+private.gradle
+
+ext{
+    pet_finder_client_id = '\"SZIOhArPMZsirBW7p5ANxN2SnSS0NXHgwarmScRcVwujWhvNvb\"'
+    pet_finder_client_secret = '\"ODdAF2NNTBAPBowfgZ9IW9OAuZzdNQJQtWJ33RmF\"'
+}
